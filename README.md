@@ -1,0 +1,2 @@
+# RoslynAnalyzersDotNet
+Miscellaneous code analysis.
